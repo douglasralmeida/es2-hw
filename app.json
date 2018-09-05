@@ -1,0 +1,7 @@
+{
+  "name": "Hello World from ES2",
+  "description": "Hello World app for Heroku",
+  "image": "heroku/python",
+  "repository": "https://github.com/",
+  "keywords": ["python", "hello-world"]
+}
