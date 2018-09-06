@@ -12,8 +12,8 @@ Este app está disponível no enedereço
 2. Instalar o Git.
 3. Instalar o Heroku CLI.
 4. Clonar o projeto.
-5. No terminal, ir para a pasta local do projeto.
-6. Logar no Heroku.
+6. Abrir o Anaconda Prompt, ir para a pasta local do projeto.
+5. Logar no Heroku.
 ```
   heroku login
 ```
