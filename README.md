@@ -3,7 +3,7 @@ Exercício 1 de ES2 - Hello World para Heroku
 
 ### Configuração
 1. Instalar o Anaconda.
-2. Instalar o GitHub Desktop.
+2. Instalar o Git.
 3. Instalar o Heroku CLI.
 4. Clonar o projeto.
 5. No terminal, ir para a pasta local do projeto.
