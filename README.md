@@ -1,6 +1,12 @@
 # es2-hw
 Exercício 1 de ES2 - Hello World para Heroku
 
+###
+Este app está disponível no enedereço
+```
+  http://doughw.herokuapp.com/
+```
+
 ### Configuração
 1. Instalar o Anaconda.
 2. Instalar o Git.
