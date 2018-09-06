@@ -8,14 +8,32 @@ Exercício 1 de ES2 - Hello World para Heroku
 4. Clonar o projeto.
 5. Ir para a pasta local do projeto.
 6. Logar no Heroku.
+```
   heroku login
+```
 7. Configurar ambiente virtual.
+```
   virtualenv ven
+```
 8. Ativar ambiente virtual.
-  venv\scripts\activate.bat
-9. Instalar módulo Flask
+```
+  Windows: activate
+  Linux:   ./venv\scripts\activate
+```
+9. Instalar módulo Flask.
+```
   pip install Flask
-10. Executar o app localmente
-  heroku local web -f Procfile.win
-11. Testar no navegador.
+```
+10. Somente Linux: Instalar módulo GUnicorn.
+```
+  pip install gunicorn
+```
+11. Executar o app localmente.
+```
+  Windows: run
+  Linux:   ./run
+```
+12. Testar no navegador.
+```
   endereço http://localhost:5000/
+```
