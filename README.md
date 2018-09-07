@@ -4,7 +4,7 @@ Exercício 1 de ES2 - Hello World para Heroku
 ###
 Este app está disponível no enedereço
 ```
-  http://doughw.herokuapp.com/
+  http://dshello.herokuapp.com/
 ```
 
 ### Configuração
